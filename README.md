@@ -5,4 +5,4 @@ With AI (SVR)
 Based on unreliable prices and data.
 
 - - - - 
-![Screenshot](.\media\sample.png)
+![Screenshot](https://github.com/mr-mojtaba/stock-market-prediction/blob/main/media/sample.png)
