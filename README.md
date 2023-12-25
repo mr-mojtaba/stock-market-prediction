@@ -1,6 +1,7 @@
-Stock market prediction with AI (SVR)<a name="TOP"></a>
+Stock market prediction<a name="TOP"></a>
 ===================
 
+With AI (SVR)
 Based on unreliable prices and data.
 - - - - 
 
